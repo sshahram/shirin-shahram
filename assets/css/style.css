@@ -1,0 +1,20 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    background-color: var(--primary-color);
+}
+
+  .hero img {
+    width: 215px;
+    height: auto;
+    position: relative;
+    margin: auto;
+  }
+
+  .hero-text {
+      margin: auto;
+      position: relative;
+      text-align:center;
+  }
